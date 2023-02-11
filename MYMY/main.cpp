@@ -8,9 +8,6 @@ using namespace sf;
 #define PI 3.14159265
 
 
-
-
-
 int main()
 {
     ContextSettings settings;
